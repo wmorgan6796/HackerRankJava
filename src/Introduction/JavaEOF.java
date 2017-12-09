@@ -16,7 +16,5 @@ class JavaEOF {
             System.out.printf("%d %s\n", ++counter, sc.nextLine());
 
         }
-
-        System.out.println("Print hello world.");
     }
 }
