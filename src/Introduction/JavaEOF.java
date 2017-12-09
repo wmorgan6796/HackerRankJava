@@ -18,5 +18,6 @@ class JavaEOF {
         }
 
         System.out.println("Print hello world.");
+        System.out.println("Hello World");
     }
 }
